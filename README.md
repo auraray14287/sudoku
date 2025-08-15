@@ -1,7 +1,7 @@
-Sudoku Solver (Go)  
+**Sudoku Solver (Go)**    
 ⚡ A blazing-fast command-line Sudoku solver written in Go*  
 
-🚀 Features 
+**🚀 Features**  
 - ✔️ Solves 9×9 Sudoku puzzles with backtracking algorithm  
 - 🛡️ Input validation for rows, columns, and 3×3 subgrids  
 - ✨ Clean output formatting for solved puzzles  
@@ -10,7 +10,7 @@ Sudoku Solver (Go)
 
 ---
 
-📦 Installation 
+**📦 Installation**  
 ```sh
 # Install globally
 go install github.com/yourusername/sudoku-solver@latest
@@ -23,13 +23,13 @@ go build -o sudoku
 
 ---
 
-🛠 Usage  
-Basic Solving  
+**🛠 Usage**    
+**Basic Solving**    
 ```sh
 ./sudoku "53..7...." "6..195..." ".98....6." "8...6...3" "4..8.3..1" "7...2...6" ".6....28." "...419..5" "....8..79"
 ```
 
-Expected Output 
+**Expected Output**   
 ```text
 5 3 4 |6 7 8 |9 1 2  
 6 7 2 |1 9 5 |3 4 8  
@@ -101,10 +101,3 @@ MIT © 2024 [Your Name]
 
 ---
 
-**Why this works:**  
-✅ **Visual hierarchy** with clear sections  
-✅ **Copy-paste friendly** usage examples  
-✅ **Technical depth** without being overwhelming  
-✅ **Future-proof** with extensibility hints  
-
-Want to add performance metrics or contribution guidelines? Happy to refine further! 🚀
