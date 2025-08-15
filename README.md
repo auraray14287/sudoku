@@ -85,19 +85,3 @@ Benchmark
 go test -bench=.
 ```
 
----
-
- **📜 License**  
-MIT © 2024 [Your Name]  
-
----
-
-**✨ Pro Tips**  
-1. **Need visualization?** Pipe output to `column -t` for perfect alignment:  
-   ```sh
-   ./sudoku "53..7...." [...] | column -t
-   ```  
-2. **Want harder puzzles?** Try integrating puzzle generation (great next feature!)  
-
----
-
