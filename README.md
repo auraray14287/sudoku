@@ -13,11 +13,11 @@
 **📦 Installation**  
 ```sh
 # Install globally
-go install github.com/yourusername/sudoku-solver@latest
+go install github.com/auraray14287/sudoku@latest
 
 # Or clone and build
-git clone https://github.com/yourusername/sudoku-solver
-cd sudoku-solver
+git clone https://github.com/auraray14287/sudoku@latest
+cd sudoku
 go build -o sudoku
 ```
 
